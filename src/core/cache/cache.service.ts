@@ -19,11 +19,10 @@ export class CacheService {
     }
 
     async reset(): Promise<void> {
-        await this.cache.reset();
+        await this.cache.clear();
     }
 
     async onModuleDestroy() {
-        const redisClient = (this.cache.store as any).getClient();
-        redisClient.quit();
+        await this.cache.disconnect();
     }
 }

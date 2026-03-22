@@ -10,7 +10,6 @@ import { APP_INTERCEPTOR } from "@nestjs/core";
 import { TransformResponseInterceptor } from "./interceptors/transform-response/transform-response.interceptor";
 import { LoggerService } from "./logger/logger.service";
 import { LoggerMiddleware } from "./middleware/logger/logger.middleware";
-import { DatabaseModule } from "../database/database.module";
 import { CacheInterceptor, CacheModule } from "@nestjs/cache-manager";
 import * as redisStore from "cache-manager-redis-store";
 import { CacheService } from "./cache/cache.service";
@@ -22,7 +21,6 @@ import { CacheService } from "./cache/cache.service";
             isGlobal: true,
             load: [config],
         }),
-        DatabaseModule,
         CacheModule.registerAsync({
             useFactory: async (configService: ConfigService) => {
                 const username = configService.get("redis.username");
