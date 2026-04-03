@@ -1,3 +1,5 @@
+import { Product } from './product.interface';
+
 export interface PriceProvider {
-    getPrice(productId: string): Promise<number>;
+    getProducts(query: string): Promise<Product[]>;
 }

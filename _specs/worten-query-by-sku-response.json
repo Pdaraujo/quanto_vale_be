@@ -1,0 +1,3001 @@
+[
+    {
+        "data": {
+            "products": [
+                {
+                    "_id": "ffffffff-0000-4000-a000-000077b0f955",
+                    "code": "FOUND",
+                    "success": true,
+                    "product": {
+                        "id": "ffffffff-0000-4000-a000-000077b0f955",
+                        "details": {
+                            "id": "ffffffff-0000-4000-a000-000077b0f955",
+                            "name": "iPhone 17 APPLE (6.3'' - 256 GB - Preto)",
+                            "categories": [
+                                {
+                                    "id": "01G2YYDYYVP212M9N4DGER68ZK",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YY69NZ4MFFQC8GXDMEVWF5",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K2F771M6YTHNP8BXE6V93P5D",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K10M7EHRM8BWKVYXPT607G7W",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K2F7B0P1T4W0FAE177B8MJM2",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G6B9AGJF1EKPMQKB5CXFDXVN",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K9YYEM8ZVMFFP964W8WGZ5Y8",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z3083T2F388W2SQ68DSC5P",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K88A6CATDKTGF7P8D980TR8W",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K9CEE11NN5NCBP997RW03RWD",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YYCABM8DB2XGMHS7KRNGQ4",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z1ATGM2BR5QMXA9RZM82CB",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z1ATGM0JPMRX2N43ACK9V0",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YY6FP991AAK7VG9A62JKX8",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z0HH0K1NHMJY4H5AWGK3TW",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z1Y6NTX382AA4JSJT3KBYD",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01GW2F19ZCSPS20AAZPXMA4SR2",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                }
+                            ],
+                            "defaultCategory": {
+                                "id": "01K2F7B0P1T4W0FAE177B8MJM2",
+                                "url": "/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/iphone/17/17",
+                                "__typename": "ProductCategory",
+                                "data": {
+                                    "config": {
+                                        "children": {
+                                            "sort": []
+                                        },
+                                        "no_index": true,
+                                        "attributes": [],
+                                        "facebook": {
+                                            "description": null,
+                                            "image": null,
+                                            "title": null
+                                        },
+                                        "image": [
+                                            {
+                                                "id": 187706198,
+                                                "proxyPathName": "/i/826b4a3f69cf8cdde21b31468c2db5c5336e5f74"
+                                            }
+                                        ],
+                                        "menu": {
+                                            "name": null
+                                        },
+                                        "scripts": [],
+                                        "title": "iPhone 17",
+                                        "twitter": {
+                                            "description": null,
+                                            "image": null,
+                                            "title": null
+                                        }
+                                    },
+                                    "entity": {
+                                        "type": "range",
+                                        "id": "01K2F7B0P1T4W0FAE177B8MJM2"
+                                    },
+                                    "meta": {
+                                        "markets": [
+                                            "wortenpt"
+                                        ],
+                                        "pageType": "",
+                                        "tags": [],
+                                        "analytics": {
+                                            "type": null
+                                        },
+                                        "default_category": {
+                                            "priority": 1000
+                                        },
+                                        "is_category": true,
+                                        "sitemap": {
+                                            "frequency": null,
+                                            "priority": ""
+                                        },
+                                        "variants": {
+                                            "expand": true
+                                        }
+                                    },
+                                    "refs": [],
+                                    "strings": []
+                                }
+                            },
+                            "canonical": {
+                                "id": "01K4T3HSMB26WAHQT107CFEPHM",
+                                "__typename": "ContentCanonical"
+                            },
+                            "type": "PRODUCT",
+                            "ean": [
+                                "0195950643503"
+                            ],
+                            "brandName": "APPLE",
+                            "sku": "8600278",
+                            "entityId": "1318714811",
+                            "url": "/produtos/iphone-17-apple-6-3-256-gb-preto-8600278",
+                            "image": {
+                                "type": "IMAGE",
+                                "data": {
+                                    "transforms": {
+                                        "default": "https://www.worten.pt/i/b5cdc142ab92e7199f1d7980f01dda8b6fabcc3c",
+                                        "thumbnail": "https://www.worten.pt/i/6edc497422ea53fb04f0f5685a9251225dec41c5",
+                                        "thumbnail20": "https://www.worten.pt/i/c6cc45afdce820ea867db8e794d8d921038cd32b",
+                                        "zoom": "https://www.worten.pt/i/96b8f0ba54aa3f6d46a17321a82730b54edf4a57"
+                                    }
+                                },
+                                "url": "https://www.worten.pt/i/7c2e4d4e4b488a42f19729816ff23f33574a56b0",
+                                "mimeType": "image/jpeg",
+                                "__typename": "ProductMediaAsset"
+                            },
+                            "rating": 4.8364,
+                            "reviews": 55,
+                            "retekDepartment": "5501",
+                            "retekClass": "03",
+                            "retekSubclass": "06",
+                            "defaultCategoryId": "",
+                            "__typename": "Product"
+                        },
+                        "winningOffer": {
+                            "sellerSku": null,
+                            "_id": "344a95a099fa0ac0b1a9ff62588167f6",
+                            "channelId": "92ac4b66-da0f-47f6-81ee-48d9dc2598a3",
+                            "offerId": "ffffffff-0000-4000-a001-000000833ad6",
+                            "sourceOfferCode": "8600278",
+                            "sellerCategory": "FIRST_PARTY",
+                            "pricing": {
+                                "final": {
+                                    "currency": "EUR",
+                                    "value": "89999",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "original": {
+                                    "currency": "EUR",
+                                    "value": "89999",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "originalType": "OTHER",
+                                "discountPercentage": 0,
+                                "discountAbsolute": {
+                                    "currency": "EUR",
+                                    "value": "000",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "__typename": "ProductOfferPricing"
+                            },
+                            "measurementUnit": null,
+                            "unitPrice": {
+                                "currency": "EUR",
+                                "value": "000",
+                                "__typename": "CurrencyValue"
+                            },
+                            "seller": null,
+                            "shouldShowDiscount": false,
+                            "discountPercentage": 0,
+                            "originalPrice": {
+                                "currency": "EUR",
+                                "value": "89999",
+                                "__typename": "CurrencyValue"
+                            },
+                            "discount": {
+                                "currency": "EUR",
+                                "value": "000",
+                                "__typename": "CurrencyValue"
+                            },
+                            "price": {
+                                "currency": "EUR",
+                                "value": "89999",
+                                "__typename": "CurrencyValue"
+                            },
+                            "isInStock": true,
+                            "fulfilmentOptions": [
+                                {
+                                    "data": {
+                                        "freeShippingLabel": false
+                                    },
+                                    "type": "HD",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": {
+                                        "min": "P1D",
+                                        "max": "P2D",
+                                        "free": true,
+                                        "text": null,
+                                        "price": null,
+                                        "__typename": "ShippingDetails"
+                                    },
+                                    "__typename": "FulfilmentOption"
+                                },
+                                {
+                                    "data": null,
+                                    "type": "PIS15",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": null,
+                                    "__typename": "FulfilmentOption"
+                                },
+                                {
+                                    "data": null,
+                                    "type": "HD2H",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": null,
+                                    "__typename": "FulfilmentOption"
+                                },
+                                {
+                                    "data": null,
+                                    "type": "PIS",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": null,
+                                    "__typename": "FulfilmentOption"
+                                }
+                            ],
+                            "fulfillmentCenterCode": null,
+                            "tags": [
+                                "is_in_stock"
+                            ],
+                            "__typename": "ProductOffer"
+                        },
+                        "secondOfferPrice": {
+                            "currency": "EUR",
+                            "value": "86999",
+                            "__typename": "CurrencyValue"
+                        },
+                        "totalOffers": 17,
+                        "__typename": "DetailedProduct",
+                        "totalProductVariants": 9
+                    },
+                    "__typename": "ProductResponse"
+                },
+                {
+                    "_id": "ffffffff-0000-4000-a000-0000776c714b",
+                    "code": "FOUND",
+                    "success": true,
+                    "product": {
+                        "id": "ffffffff-0000-4000-a000-0000776c714b",
+                        "details": {
+                            "id": "ffffffff-0000-4000-a000-0000776c714b",
+                            "name": "MacBook Air APPLE Prateado (13.6'' - Apple M4 10-Core - RAM: 16 GB - 256 GB SSD - 8-Core)",
+                            "categories": [
+                                {
+                                    "id": "01G6B9AGJF1EKPMQKB5CXFDXVN",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K5C1433Y6AKP7TEMEJNXH13F",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K5C15VF37CW35J2BW1V0P88Y",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01GX6MWP8MHDXGPBV9TEXBY76A",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YYCABMCF0KA7MWY724DYKF",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YY66FBE842BZD0B1MFJ5RG",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z1ATGMK1HAWWF46XM5F18K",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z1ATGM0JPMRX2N43ACK9V0",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YYCABNVEQFC11TGEHW1WD1",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z1YVH1ECW41JT8CF2GK410",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01KJYXQW41NHNB6CACFSA9PJY0",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01J8FK9SKVM55W37PNXVCCVKAM",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z1XWST6DERQZCXMDS4WEET",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YY6FP991AAK7VG9A62JKX8",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YXPQ4VFWA0DGFWGGYPANKF",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YY6BCARH8NZZMGKWGNT7DS",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YXQ0W8QXR7X30TZYB3RT75",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01JNQYVMWTPSJ1TDQE0F9ZSE8G",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z1XWST5YZ0J952GKKH7MFA",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z1ATGMQPD2YRBAYJR7AHBJ",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                }
+                            ],
+                            "defaultCategory": {
+                                "id": "01KJYXQW41NHNB6CACFSA9PJY0",
+                                "url": "/informatica-e-acessorios/computadores/computadores-portateis/macbook",
+                                "__typename": "ProductCategory",
+                                "data": {
+                                    "config": {
+                                        "children": {
+                                            "sort": [
+                                                "01KK9FDXBBQSBHVWB223WJ4C9W",
+                                                "01KJYYEJYCES0WKH5B2FDQ82YH",
+                                                "01KJYYTRWHDF2T3E2MEJXJ8Z7R"
+                                            ]
+                                        },
+                                        "no_index": true,
+                                        "attributes": [],
+                                        "facebook": {
+                                            "description": null,
+                                            "image": null,
+                                            "title": null
+                                        },
+                                        "hide_in_modules": true,
+                                        "image": [
+                                            {
+                                                "id": 258921616,
+                                                "proxyPathName": "/i/ab99f9a150e4a6c0228b24c22b827036fd6b0043"
+                                            }
+                                        ],
+                                        "menu": {
+                                            "name": null
+                                        },
+                                        "scripts": [],
+                                        "title": "MacBook",
+                                        "twitter": {
+                                            "description": null,
+                                            "image": null,
+                                            "title": null
+                                        }
+                                    },
+                                    "entity": {
+                                        "type": "range",
+                                        "id": "01KJYXQW41NHNB6CACFSA9PJY0"
+                                    },
+                                    "meta": {
+                                        "markets": [
+                                            "wortenpt"
+                                        ],
+                                        "pageType": "product-list",
+                                        "tags": [],
+                                        "analytics": {
+                                            "type": null
+                                        },
+                                        "default_category": {
+                                            "priority": 1000
+                                        },
+                                        "is_category": true,
+                                        "sitemap": {
+                                            "frequency": null,
+                                            "priority": ""
+                                        },
+                                        "variants": {
+                                            "expand": false
+                                        }
+                                    },
+                                    "refs": [],
+                                    "strings": []
+                                }
+                            },
+                            "canonical": {
+                                "id": "01JNNY6Q0F8B1MC2GVXMNFCRQE",
+                                "__typename": "ContentCanonical"
+                            },
+                            "type": "PRODUCT",
+                            "ean": [
+                                "0195949836299"
+                            ],
+                            "brandName": "APPLE",
+                            "sku": "8388756",
+                            "entityId": "1291487242",
+                            "url": "/produtos/macbook-air-apple-prateado-13-6-apple-m4-10-core-ram-16-gb-256-gb-ssd-8-core-8388756",
+                            "image": {
+                                "type": "IMAGE",
+                                "data": {
+                                    "transforms": {
+                                        "default": "https://www.worten.pt/i/dbda2c013b4356bc0739d3b03ed3082ab22c8666",
+                                        "thumbnail": "https://www.worten.pt/i/2a1359fa7646a7cff7f900cbc34944c79b6ad64b",
+                                        "thumbnail20": "https://www.worten.pt/i/f8bd9622f4f24d96c6227afcee0248fa09d1c497",
+                                        "zoom": "https://www.worten.pt/i/3ade7a265c13d602d69a746fa90e227aa7ff68b2"
+                                    }
+                                },
+                                "url": "https://www.worten.pt/i/4fcdc7e5fce9371d033c4edf01b9f8f4497c7e18",
+                                "mimeType": "image/jpeg",
+                                "__typename": "ProductMediaAsset"
+                            },
+                            "rating": 4.7778,
+                            "reviews": 27,
+                            "retekDepartment": "5401",
+                            "retekClass": "05",
+                            "retekSubclass": "06",
+                            "defaultCategoryId": "",
+                            "__typename": "Product"
+                        },
+                        "winningOffer": {
+                            "sellerSku": null,
+                            "_id": "b6789a6bbaf8975178ee714b45957189",
+                            "channelId": "92ac4b66-da0f-47f6-81ee-48d9dc2598a3",
+                            "offerId": "ffffffff-0000-4000-a001-000000800094",
+                            "sourceOfferCode": "8388756",
+                            "sellerCategory": "FIRST_PARTY",
+                            "pricing": {
+                                "final": {
+                                    "currency": "EUR",
+                                    "value": "89999",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "original": {
+                                    "currency": "EUR",
+                                    "value": "89999",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "originalType": "OTHER",
+                                "discountPercentage": 0,
+                                "discountAbsolute": {
+                                    "currency": "EUR",
+                                    "value": "000",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "__typename": "ProductOfferPricing"
+                            },
+                            "measurementUnit": null,
+                            "unitPrice": {
+                                "currency": "EUR",
+                                "value": "000",
+                                "__typename": "CurrencyValue"
+                            },
+                            "seller": null,
+                            "shouldShowDiscount": false,
+                            "discountPercentage": 0,
+                            "originalPrice": {
+                                "currency": "EUR",
+                                "value": "89999",
+                                "__typename": "CurrencyValue"
+                            },
+                            "discount": {
+                                "currency": "EUR",
+                                "value": "000",
+                                "__typename": "CurrencyValue"
+                            },
+                            "price": {
+                                "currency": "EUR",
+                                "value": "89999",
+                                "__typename": "CurrencyValue"
+                            },
+                            "isInStock": true,
+                            "fulfilmentOptions": [
+                                {
+                                    "data": {
+                                        "freeShippingLabel": false
+                                    },
+                                    "type": "HD",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": {
+                                        "min": "P1D",
+                                        "max": "P2D",
+                                        "free": true,
+                                        "text": null,
+                                        "price": null,
+                                        "__typename": "ShippingDetails"
+                                    },
+                                    "__typename": "FulfilmentOption"
+                                },
+                                {
+                                    "data": null,
+                                    "type": "PIS15",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": null,
+                                    "__typename": "FulfilmentOption"
+                                },
+                                {
+                                    "data": null,
+                                    "type": "HD2H",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": null,
+                                    "__typename": "FulfilmentOption"
+                                },
+                                {
+                                    "data": null,
+                                    "type": "PIS",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": null,
+                                    "__typename": "FulfilmentOption"
+                                }
+                            ],
+                            "fulfillmentCenterCode": null,
+                            "tags": [
+                                "is_in_stock"
+                            ],
+                            "__typename": "ProductOffer"
+                        },
+                        "secondOfferPrice": null,
+                        "totalOffers": 1,
+                        "__typename": "DetailedProduct",
+                        "totalProductVariants": 0
+                    },
+                    "__typename": "ProductResponse"
+                },
+                {
+                    "_id": "ffffffff-0000-4000-a000-000077b0f957",
+                    "code": "FOUND",
+                    "success": true,
+                    "product": {
+                        "id": "ffffffff-0000-4000-a000-000077b0f957",
+                        "details": {
+                            "id": "ffffffff-0000-4000-a000-000077b0f957",
+                            "name": "iPhone 17 Pro Max APPLE (6.9'' - 256 GB - Laranja cósmico)",
+                            "categories": [
+                                {
+                                    "id": "01G2YYDYYVP212M9N4DGER68ZK",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K2F771M6YTHNP8BXE6V93P5D",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K10M7EHRM8BWKVYXPT607G7W",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K10MTGB26MS05YTJ02P7YV5S",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K2F7Q88D82S9VGCFA5GQFER2",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YY69NZ4MFFQC8GXDMEVWF5",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z3083T2F388W2SQ68DSC5P",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K88A6CATDKTGF7P8D980TR8W",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K9CEE11NN5NCBP997RW03RWD",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YYCABM8DB2XGMHS7KRNGQ4",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                }
+                            ],
+                            "defaultCategory": {
+                                "id": "01K2F7Q88D82S9VGCFA5GQFER2",
+                                "url": "/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/iphone/17/pro-max",
+                                "__typename": "ProductCategory",
+                                "data": {
+                                    "config": {
+                                        "children": {
+                                            "sort": []
+                                        },
+                                        "no_index": true,
+                                        "attributes": [],
+                                        "facebook": {
+                                            "description": null,
+                                            "image": null,
+                                            "title": null
+                                        },
+                                        "image": [
+                                            {
+                                                "id": 187709859,
+                                                "proxyPathName": "/i/72479be2bf6f9c6db2ea99e7ac5a1b4bfa63a194"
+                                            }
+                                        ],
+                                        "menu": {
+                                            "name": null
+                                        },
+                                        "scripts": [],
+                                        "title": "iPhone 17 Pro Max",
+                                        "twitter": {
+                                            "description": null,
+                                            "image": null,
+                                            "title": null
+                                        }
+                                    },
+                                    "entity": {
+                                        "type": "range",
+                                        "id": "01K2F7Q88D82S9VGCFA5GQFER2"
+                                    },
+                                    "meta": {
+                                        "markets": [
+                                            "wortenpt"
+                                        ],
+                                        "pageType": "",
+                                        "tags": [],
+                                        "analytics": {
+                                            "type": null
+                                        },
+                                        "default_category": {
+                                            "priority": 1000
+                                        },
+                                        "is_category": true,
+                                        "sitemap": {
+                                            "frequency": null,
+                                            "priority": ""
+                                        },
+                                        "variants": {
+                                            "expand": true
+                                        }
+                                    },
+                                    "refs": [],
+                                    "strings": []
+                                }
+                            },
+                            "canonical": {
+                                "id": "01K4T446MGXYQMXKG02KA9BHZ9",
+                                "__typename": "ContentCanonical"
+                            },
+                            "type": "PRODUCT",
+                            "ean": [
+                                "0195950639018"
+                            ],
+                            "brandName": "APPLE",
+                            "sku": "8600361",
+                            "entityId": "1318714856",
+                            "url": "/produtos/iphone-17-pro-max-apple-6-9-256-gb-laranja-cosmico-8600361",
+                            "image": {
+                                "type": "IMAGE",
+                                "data": {
+                                    "transforms": {
+                                        "default": "https://www.worten.pt/i/ccd2181a399d0fa7bb40dec8a2475c3ca22ea912",
+                                        "thumbnail": "https://www.worten.pt/i/cbc01668eae8260dfc74775a4c0259a30aa90cd3",
+                                        "thumbnail20": "https://www.worten.pt/i/bb0054378fc79ea6d34b3927c386c837cc88b4a8",
+                                        "zoom": "https://www.worten.pt/i/f3aadbd82b0c9570bd2d4770a12432f94edd9737"
+                                    }
+                                },
+                                "url": "https://www.worten.pt/i/a138ec53381ea94a6505fee60379b26e39189929",
+                                "mimeType": "image/jpeg",
+                                "__typename": "ProductMediaAsset"
+                            },
+                            "rating": 4.9107,
+                            "reviews": 56,
+                            "retekDepartment": "5501",
+                            "retekClass": "03",
+                            "retekSubclass": "06",
+                            "defaultCategoryId": "",
+                            "__typename": "Product"
+                        },
+                        "winningOffer": {
+                            "sellerSku": "S806626",
+                            "_id": "8b451343b2d8ed9417a4751608347086",
+                            "channelId": "92ac4b66-da0f-47f6-81ee-48d9dc2598a3",
+                            "offerId": "ffffffff-0000-4000-a003-000019224f4a",
+                            "sourceOfferCode": "421678922",
+                            "sellerCategory": "THIRD_PARTY",
+                            "pricing": {
+                                "final": {
+                                    "currency": "EUR",
+                                    "value": "141390",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "original": {
+                                    "currency": "EUR",
+                                    "value": "141390",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "originalType": "OTHER",
+                                "discountPercentage": 0,
+                                "discountAbsolute": {
+                                    "currency": "EUR",
+                                    "value": "000",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "__typename": "ProductOfferPricing"
+                            },
+                            "measurementUnit": null,
+                            "unitPrice": {
+                                "currency": "EUR",
+                                "value": "000",
+                                "__typename": "CurrencyValue"
+                            },
+                            "seller": {
+                                "id": "01242fdf-1700-0000-0000-0045d964f328",
+                                "name": "ebuy",
+                                "premiumState": "NOT_PREMIUM",
+                                "evaluationsCount": 38,
+                                "ordersCount": 663,
+                                "grade": "4.21",
+                                "__typename": "Seller"
+                            },
+                            "shouldShowDiscount": false,
+                            "discountPercentage": 0,
+                            "originalPrice": {
+                                "currency": "EUR",
+                                "value": "141390",
+                                "__typename": "CurrencyValue"
+                            },
+                            "discount": {
+                                "currency": "EUR",
+                                "value": "000",
+                                "__typename": "CurrencyValue"
+                            },
+                            "price": {
+                                "currency": "EUR",
+                                "value": "141390",
+                                "__typename": "CurrencyValue"
+                            },
+                            "isInStock": true,
+                            "fulfilmentOptions": [
+                                {
+                                    "data": {
+                                        "freeShippingLabel": false
+                                    },
+                                    "type": "HD",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": {
+                                        "min": "P1D",
+                                        "max": "P2D",
+                                        "free": true,
+                                        "text": null,
+                                        "price": null,
+                                        "__typename": "ShippingDetails"
+                                    },
+                                    "__typename": "FulfilmentOption"
+                                }
+                            ],
+                            "fulfillmentCenterCode": null,
+                            "tags": [
+                                "is_in_stock"
+                            ],
+                            "__typename": "ProductOffer"
+                        },
+                        "secondOfferPrice": {
+                            "currency": "EUR",
+                            "value": "141400",
+                            "__typename": "CurrencyValue"
+                        },
+                        "totalOffers": 12,
+                        "__typename": "DetailedProduct",
+                        "totalProductVariants": 11
+                    },
+                    "__typename": "ProductResponse"
+                },
+                {
+                    "_id": "ffffffff-0000-4000-a000-000077b0f965",
+                    "code": "FOUND",
+                    "success": true,
+                    "product": {
+                        "id": "ffffffff-0000-4000-a000-000077b0f965",
+                        "details": {
+                            "id": "ffffffff-0000-4000-a000-000077b0f965",
+                            "name": "iPhone 17 Pro Max APPLE (6.9'' - 256 GB - Azul escuro)",
+                            "categories": [
+                                {
+                                    "id": "01G2YYDYYVP212M9N4DGER68ZK",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K2F771M6YTHNP8BXE6V93P5D",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K10M7EHRM8BWKVYXPT607G7W",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K2F7Q88D82S9VGCFA5GQFER2",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K10MTGB26MS05YTJ02P7YV5S",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YY69NZ4MFFQC8GXDMEVWF5",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G6B9AGJF1EKPMQKB5CXFDXVN",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K9YYEM8ZVMFFP964W8WGZ5Y8",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z3083T2F388W2SQ68DSC5P",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K88A6CATDKTGF7P8D980TR8W",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K9CEE11NN5NCBP997RW03RWD",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YYCABM8DB2XGMHS7KRNGQ4",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z1ATGM2BR5QMXA9RZM82CB",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z1ATGM0JPMRX2N43ACK9V0",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YY6FP991AAK7VG9A62JKX8",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01GW2F19ZCSPS20AAZPXMA4SR2",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                }
+                            ],
+                            "defaultCategory": {
+                                "id": "01K2F7Q88D82S9VGCFA5GQFER2",
+                                "url": "/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/iphone/17/pro-max",
+                                "__typename": "ProductCategory",
+                                "data": {
+                                    "config": {
+                                        "children": {
+                                            "sort": []
+                                        },
+                                        "no_index": true,
+                                        "attributes": [],
+                                        "facebook": {
+                                            "description": null,
+                                            "image": null,
+                                            "title": null
+                                        },
+                                        "image": [
+                                            {
+                                                "id": 187709859,
+                                                "proxyPathName": "/i/72479be2bf6f9c6db2ea99e7ac5a1b4bfa63a194"
+                                            }
+                                        ],
+                                        "menu": {
+                                            "name": null
+                                        },
+                                        "scripts": [],
+                                        "title": "iPhone 17 Pro Max",
+                                        "twitter": {
+                                            "description": null,
+                                            "image": null,
+                                            "title": null
+                                        }
+                                    },
+                                    "entity": {
+                                        "type": "range",
+                                        "id": "01K2F7Q88D82S9VGCFA5GQFER2"
+                                    },
+                                    "meta": {
+                                        "markets": [
+                                            "wortenpt"
+                                        ],
+                                        "pageType": "",
+                                        "tags": [],
+                                        "analytics": {
+                                            "type": null
+                                        },
+                                        "default_category": {
+                                            "priority": 1000
+                                        },
+                                        "is_category": true,
+                                        "sitemap": {
+                                            "frequency": null,
+                                            "priority": ""
+                                        },
+                                        "variants": {
+                                            "expand": true
+                                        }
+                                    },
+                                    "refs": [],
+                                    "strings": []
+                                }
+                            },
+                            "canonical": {
+                                "id": "01K4T3XMDY4D7F7Z9P6NDC4C5E",
+                                "__typename": "ContentCanonical"
+                            },
+                            "type": "PRODUCT",
+                            "ean": [
+                                "0195950639216"
+                            ],
+                            "brandName": "APPLE",
+                            "sku": "8600362",
+                            "entityId": "1318714906",
+                            "url": "/produtos/iphone-17-pro-max-apple-6-9-256-gb-azul-escuro-8600362",
+                            "image": {
+                                "type": "IMAGE",
+                                "data": {
+                                    "transforms": {
+                                        "default": "https://www.worten.pt/i/67f20a9dede256c1cedb51900332193c88cbd381",
+                                        "thumbnail": "https://www.worten.pt/i/0f5614a8efe72ebf6110dc2d15d17558fa44b0a2",
+                                        "thumbnail20": "https://www.worten.pt/i/e73718981ac36d4d906a6afdd9d275e7d76e4056",
+                                        "zoom": "https://www.worten.pt/i/ae38fee577f57afd7ed1a63dc450741c63844e2d"
+                                    }
+                                },
+                                "url": "https://www.worten.pt/i/b55c89aa0bb43247eb3dbe7a353f1fbd8153b68e",
+                                "mimeType": "image/jpeg",
+                                "__typename": "ProductMediaAsset"
+                            },
+                            "rating": 4.791,
+                            "reviews": 67,
+                            "retekDepartment": "5501",
+                            "retekClass": "03",
+                            "retekSubclass": "06",
+                            "defaultCategoryId": "",
+                            "__typename": "Product"
+                        },
+                        "winningOffer": {
+                            "sellerSku": null,
+                            "_id": "882afbb502b5de8f5737e9d276fae292",
+                            "channelId": "92ac4b66-da0f-47f6-81ee-48d9dc2598a3",
+                            "offerId": "ffffffff-0000-4000-a001-000000833b2a",
+                            "sourceOfferCode": "8600362",
+                            "sellerCategory": "FIRST_PARTY",
+                            "pricing": {
+                                "final": {
+                                    "currency": "EUR",
+                                    "value": "142900",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "original": {
+                                    "currency": "EUR",
+                                    "value": "142900",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "originalType": "OTHER",
+                                "discountPercentage": 0,
+                                "discountAbsolute": {
+                                    "currency": "EUR",
+                                    "value": "000",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "__typename": "ProductOfferPricing"
+                            },
+                            "measurementUnit": null,
+                            "unitPrice": {
+                                "currency": "EUR",
+                                "value": "000",
+                                "__typename": "CurrencyValue"
+                            },
+                            "seller": null,
+                            "shouldShowDiscount": false,
+                            "discountPercentage": 0,
+                            "originalPrice": {
+                                "currency": "EUR",
+                                "value": "142900",
+                                "__typename": "CurrencyValue"
+                            },
+                            "discount": {
+                                "currency": "EUR",
+                                "value": "000",
+                                "__typename": "CurrencyValue"
+                            },
+                            "price": {
+                                "currency": "EUR",
+                                "value": "142900",
+                                "__typename": "CurrencyValue"
+                            },
+                            "isInStock": true,
+                            "fulfilmentOptions": [
+                                {
+                                    "data": {
+                                        "freeShippingLabel": false
+                                    },
+                                    "type": "HD",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": {
+                                        "min": "P1D",
+                                        "max": "P2D",
+                                        "free": true,
+                                        "text": null,
+                                        "price": null,
+                                        "__typename": "ShippingDetails"
+                                    },
+                                    "__typename": "FulfilmentOption"
+                                },
+                                {
+                                    "data": null,
+                                    "type": "PIS15",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": null,
+                                    "__typename": "FulfilmentOption"
+                                },
+                                {
+                                    "data": null,
+                                    "type": "HD2H",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": null,
+                                    "__typename": "FulfilmentOption"
+                                },
+                                {
+                                    "data": null,
+                                    "type": "PIS",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": null,
+                                    "__typename": "FulfilmentOption"
+                                }
+                            ],
+                            "fulfillmentCenterCode": null,
+                            "tags": [
+                                "is_in_stock"
+                            ],
+                            "__typename": "ProductOffer"
+                        },
+                        "secondOfferPrice": {
+                            "currency": "EUR",
+                            "value": "142301",
+                            "__typename": "CurrencyValue"
+                        },
+                        "totalOffers": 15,
+                        "__typename": "DetailedProduct",
+                        "totalProductVariants": 11
+                    },
+                    "__typename": "ProductResponse"
+                },
+                {
+                    "_id": "ffffffff-0000-4000-a000-000077b0f98d",
+                    "code": "FOUND",
+                    "success": true,
+                    "product": {
+                        "id": "ffffffff-0000-4000-a000-000077b0f98d",
+                        "details": {
+                            "id": "ffffffff-0000-4000-a000-000077b0f98d",
+                            "name": "iPhone 17 Pro Max APPLE (6.9'' - 256 GB - Prateado)",
+                            "categories": [
+                                {
+                                    "id": "01G2YY69NZ4MFFQC8GXDMEVWF5",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YYDYYVP212M9N4DGER68ZK",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K2F771M6YTHNP8BXE6V93P5D",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K10M7EHRM8BWKVYXPT607G7W",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K10MTGB26MS05YTJ02P7YV5S",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K2F7Q88D82S9VGCFA5GQFER2",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G6B9AGJF1EKPMQKB5CXFDXVN",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K9YYEM8ZVMFFP964W8WGZ5Y8",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z3083T2F388W2SQ68DSC5P",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z1ATGM2BR5QMXA9RZM82CB",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z1ATGM0JPMRX2N43ACK9V0",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K88A6CATDKTGF7P8D980TR8W",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K9CEE11NN5NCBP997RW03RWD",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YYCABM8DB2XGMHS7KRNGQ4",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YY6FP991AAK7VG9A62JKX8",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01GW2F19ZCSPS20AAZPXMA4SR2",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                }
+                            ],
+                            "defaultCategory": {
+                                "id": "01K2F7Q88D82S9VGCFA5GQFER2",
+                                "url": "/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/iphone/17/pro-max",
+                                "__typename": "ProductCategory",
+                                "data": {
+                                    "config": {
+                                        "children": {
+                                            "sort": []
+                                        },
+                                        "no_index": true,
+                                        "attributes": [],
+                                        "facebook": {
+                                            "description": null,
+                                            "image": null,
+                                            "title": null
+                                        },
+                                        "image": [
+                                            {
+                                                "id": 187709859,
+                                                "proxyPathName": "/i/72479be2bf6f9c6db2ea99e7ac5a1b4bfa63a194"
+                                            }
+                                        ],
+                                        "menu": {
+                                            "name": null
+                                        },
+                                        "scripts": [],
+                                        "title": "iPhone 17 Pro Max",
+                                        "twitter": {
+                                            "description": null,
+                                            "image": null,
+                                            "title": null
+                                        }
+                                    },
+                                    "entity": {
+                                        "type": "range",
+                                        "id": "01K2F7Q88D82S9VGCFA5GQFER2"
+                                    },
+                                    "meta": {
+                                        "markets": [
+                                            "wortenpt"
+                                        ],
+                                        "pageType": "",
+                                        "tags": [],
+                                        "analytics": {
+                                            "type": null
+                                        },
+                                        "default_category": {
+                                            "priority": 1000
+                                        },
+                                        "is_category": true,
+                                        "sitemap": {
+                                            "frequency": null,
+                                            "priority": ""
+                                        },
+                                        "variants": {
+                                            "expand": true
+                                        }
+                                    },
+                                    "refs": [],
+                                    "strings": []
+                                }
+                            },
+                            "canonical": {
+                                "id": "01K4VWFY669KZ11561GYH05N7T",
+                                "__typename": "ContentCanonical"
+                            },
+                            "type": "PRODUCT",
+                            "ean": [
+                                "0195950638813"
+                            ],
+                            "brandName": "APPLE",
+                            "sku": "8600349",
+                            "entityId": "1318715114",
+                            "url": "/produtos/iphone-17-pro-max-apple-6-9-256-gb-prateado-8600349",
+                            "image": {
+                                "type": "IMAGE",
+                                "data": {
+                                    "transforms": {
+                                        "default": "https://www.worten.pt/i/f2b696e5e3c6c9a6fec66bb204ecfc0fe9913947",
+                                        "thumbnail": "https://www.worten.pt/i/8fd5810e9df0f97da18df7e52d6d709383702a5d",
+                                        "thumbnail20": "https://www.worten.pt/i/9f06ed64be865e378e647cbc0556e9b1460a2492",
+                                        "zoom": "https://www.worten.pt/i/165aa769ec352a5a7df92694c8c00aa63c2a683d"
+                                    }
+                                },
+                                "url": "https://www.worten.pt/i/7678f504a2c9d030f0c7792d669a8f08d4ef9743",
+                                "mimeType": "image/jpeg",
+                                "__typename": "ProductMediaAsset"
+                            },
+                            "rating": 4.8714,
+                            "reviews": 70,
+                            "retekDepartment": "5501",
+                            "retekClass": "03",
+                            "retekSubclass": "06",
+                            "defaultCategoryId": "",
+                            "__typename": "Product"
+                        },
+                        "winningOffer": {
+                            "sellerSku": null,
+                            "_id": "0ee0bbe1ffddea7c38d41ec477ed2bde",
+                            "channelId": "92ac4b66-da0f-47f6-81ee-48d9dc2598a3",
+                            "offerId": "ffffffff-0000-4000-a001-000000833b1d",
+                            "sourceOfferCode": "8600349",
+                            "sellerCategory": "FIRST_PARTY",
+                            "pricing": {
+                                "final": {
+                                    "currency": "EUR",
+                                    "value": "142900",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "original": {
+                                    "currency": "EUR",
+                                    "value": "142900",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "originalType": "OTHER",
+                                "discountPercentage": 0,
+                                "discountAbsolute": {
+                                    "currency": "EUR",
+                                    "value": "000",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "__typename": "ProductOfferPricing"
+                            },
+                            "measurementUnit": null,
+                            "unitPrice": {
+                                "currency": "EUR",
+                                "value": "000",
+                                "__typename": "CurrencyValue"
+                            },
+                            "seller": null,
+                            "shouldShowDiscount": false,
+                            "discountPercentage": 0,
+                            "originalPrice": {
+                                "currency": "EUR",
+                                "value": "142900",
+                                "__typename": "CurrencyValue"
+                            },
+                            "discount": {
+                                "currency": "EUR",
+                                "value": "000",
+                                "__typename": "CurrencyValue"
+                            },
+                            "price": {
+                                "currency": "EUR",
+                                "value": "142900",
+                                "__typename": "CurrencyValue"
+                            },
+                            "isInStock": true,
+                            "fulfilmentOptions": [
+                                {
+                                    "data": {
+                                        "freeShippingLabel": false
+                                    },
+                                    "type": "HD",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": {
+                                        "min": "P1D",
+                                        "max": "P2D",
+                                        "free": true,
+                                        "text": null,
+                                        "price": null,
+                                        "__typename": "ShippingDetails"
+                                    },
+                                    "__typename": "FulfilmentOption"
+                                },
+                                {
+                                    "data": null,
+                                    "type": "PIS15",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": null,
+                                    "__typename": "FulfilmentOption"
+                                },
+                                {
+                                    "data": null,
+                                    "type": "HD2H",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": null,
+                                    "__typename": "FulfilmentOption"
+                                },
+                                {
+                                    "data": null,
+                                    "type": "PIS",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": null,
+                                    "__typename": "FulfilmentOption"
+                                }
+                            ],
+                            "fulfillmentCenterCode": null,
+                            "tags": [
+                                "is_in_stock"
+                            ],
+                            "__typename": "ProductOffer"
+                        },
+                        "secondOfferPrice": {
+                            "currency": "EUR",
+                            "value": "143990",
+                            "__typename": "CurrencyValue"
+                        },
+                        "totalOffers": 10,
+                        "__typename": "DetailedProduct",
+                        "totalProductVariants": 11
+                    },
+                    "__typename": "ProductResponse"
+                },
+                {
+                    "_id": "ffffffff-0000-4000-a000-000077b0f986",
+                    "code": "FOUND",
+                    "success": true,
+                    "product": {
+                        "id": "ffffffff-0000-4000-a000-000077b0f986",
+                        "details": {
+                            "id": "ffffffff-0000-4000-a000-000077b0f986",
+                            "name": "iPhone 17 Pro APPLE (6.3'' - 256 GB - Prateado)",
+                            "categories": [
+                                {
+                                    "id": "01G2YYDYYVP212M9N4DGER68ZK",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K2F771M6YTHNP8BXE6V93P5D",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K10M7EHRM8BWKVYXPT607G7W",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K2F7S6X5ZTVQ18F8RBM5YNDE",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K10MF0D5HAJ68NYCMAQ2A7D9",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YY69NZ4MFFQC8GXDMEVWF5",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G6B9AGJF1EKPMQKB5CXFDXVN",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K9YYEM8ZVMFFP964W8WGZ5Y8",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z3083T2F388W2SQ68DSC5P",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z1ATGM2BR5QMXA9RZM82CB",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z1ATGM0JPMRX2N43ACK9V0",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K88A6CATDKTGF7P8D980TR8W",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K9CEE11NN5NCBP997RW03RWD",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YYCABM8DB2XGMHS7KRNGQ4",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YY6FP991AAK7VG9A62JKX8",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01GW2F19ZCSPS20AAZPXMA4SR2",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                }
+                            ],
+                            "defaultCategory": {
+                                "id": "01K2F7S6X5ZTVQ18F8RBM5YNDE",
+                                "url": "/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/iphone/17/pro",
+                                "__typename": "ProductCategory",
+                                "data": {
+                                    "config": {
+                                        "children": {
+                                            "sort": []
+                                        },
+                                        "no_index": true,
+                                        "attributes": [],
+                                        "facebook": {
+                                            "description": null,
+                                            "image": null,
+                                            "title": null
+                                        },
+                                        "image": [
+                                            {
+                                                "id": 187709642,
+                                                "proxyPathName": "/i/448c1346714b5d1528a37d5ec3c7f2f431079eb7"
+                                            }
+                                        ],
+                                        "menu": {
+                                            "name": null
+                                        },
+                                        "scripts": [],
+                                        "title": "iPhone 17 Pro",
+                                        "twitter": {
+                                            "description": null,
+                                            "image": null,
+                                            "title": null
+                                        }
+                                    },
+                                    "entity": {
+                                        "type": "range",
+                                        "id": "01K2F7S6X5ZTVQ18F8RBM5YNDE"
+                                    },
+                                    "meta": {
+                                        "markets": [
+                                            "wortenpt"
+                                        ],
+                                        "pageType": "",
+                                        "tags": [],
+                                        "analytics": {
+                                            "type": null
+                                        },
+                                        "default_category": {
+                                            "priority": 1000
+                                        },
+                                        "is_category": true,
+                                        "sitemap": {
+                                            "frequency": null,
+                                            "priority": ""
+                                        },
+                                        "variants": {
+                                            "expand": true
+                                        }
+                                    },
+                                    "refs": [],
+                                    "strings": []
+                                }
+                            },
+                            "canonical": {
+                                "id": "01K4T32GQEP5B8D912TTB3FR0N",
+                                "__typename": "ContentCanonical"
+                            },
+                            "type": "PRODUCT",
+                            "ean": [
+                                "0195950627169"
+                            ],
+                            "brandName": "APPLE",
+                            "sku": "8600340",
+                            "entityId": "1318715016",
+                            "url": "/produtos/iphone-17-pro-apple-6-3-256-gb-prateado-8600340",
+                            "image": {
+                                "type": "IMAGE",
+                                "data": {
+                                    "transforms": {
+                                        "default": "https://www.worten.pt/i/31a0b011f037a9ea18d7679c935a56623e7a828c",
+                                        "thumbnail": "https://www.worten.pt/i/864f84498ffb705c4485ada011e68ecb0be0f4a8",
+                                        "thumbnail20": "https://www.worten.pt/i/f40ed29119827a8187bf00128216e98836857596",
+                                        "zoom": "https://www.worten.pt/i/a7e3970554cad5ed13d950290ab85b6285cc26f2"
+                                    }
+                                },
+                                "url": "https://www.worten.pt/i/bba772efa29fe8b252a342e2cf507d811c0ed402",
+                                "mimeType": "image/jpeg",
+                                "__typename": "ProductMediaAsset"
+                            },
+                            "rating": 4.8108,
+                            "reviews": 37,
+                            "retekDepartment": "5501",
+                            "retekClass": "03",
+                            "retekSubclass": "06",
+                            "defaultCategoryId": "",
+                            "__typename": "Product"
+                        },
+                        "winningOffer": {
+                            "sellerSku": null,
+                            "_id": "d019890384be7bfc2a5829c1e9a48781",
+                            "channelId": "92ac4b66-da0f-47f6-81ee-48d9dc2598a3",
+                            "offerId": "ffffffff-0000-4000-a001-000000833b14",
+                            "sourceOfferCode": "8600340",
+                            "sellerCategory": "FIRST_PARTY",
+                            "pricing": {
+                                "final": {
+                                    "currency": "EUR",
+                                    "value": "128900",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "original": {
+                                    "currency": "EUR",
+                                    "value": "128900",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "originalType": "OTHER",
+                                "discountPercentage": 0,
+                                "discountAbsolute": {
+                                    "currency": "EUR",
+                                    "value": "000",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "__typename": "ProductOfferPricing"
+                            },
+                            "measurementUnit": null,
+                            "unitPrice": {
+                                "currency": "EUR",
+                                "value": "000",
+                                "__typename": "CurrencyValue"
+                            },
+                            "seller": null,
+                            "shouldShowDiscount": false,
+                            "discountPercentage": 0,
+                            "originalPrice": {
+                                "currency": "EUR",
+                                "value": "128900",
+                                "__typename": "CurrencyValue"
+                            },
+                            "discount": {
+                                "currency": "EUR",
+                                "value": "000",
+                                "__typename": "CurrencyValue"
+                            },
+                            "price": {
+                                "currency": "EUR",
+                                "value": "128900",
+                                "__typename": "CurrencyValue"
+                            },
+                            "isInStock": true,
+                            "fulfilmentOptions": [
+                                {
+                                    "data": {
+                                        "freeShippingLabel": false
+                                    },
+                                    "type": "HD",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": {
+                                        "min": "P1D",
+                                        "max": "P2D",
+                                        "free": true,
+                                        "text": null,
+                                        "price": null,
+                                        "__typename": "ShippingDetails"
+                                    },
+                                    "__typename": "FulfilmentOption"
+                                },
+                                {
+                                    "data": null,
+                                    "type": "PIS15",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": null,
+                                    "__typename": "FulfilmentOption"
+                                },
+                                {
+                                    "data": null,
+                                    "type": "HD2H",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": null,
+                                    "__typename": "FulfilmentOption"
+                                },
+                                {
+                                    "data": null,
+                                    "type": "PIS",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": null,
+                                    "__typename": "FulfilmentOption"
+                                }
+                            ],
+                            "fulfillmentCenterCode": null,
+                            "tags": [
+                                "is_in_stock"
+                            ],
+                            "__typename": "ProductOffer"
+                        },
+                        "secondOfferPrice": {
+                            "currency": "EUR",
+                            "value": "126300",
+                            "__typename": "CurrencyValue"
+                        },
+                        "totalOffers": 7,
+                        "__typename": "DetailedProduct",
+                        "totalProductVariants": 8
+                    },
+                    "__typename": "ProductResponse"
+                },
+                {
+                    "_id": "ffffffff-0000-4000-a000-000077b0f96c",
+                    "code": "FOUND",
+                    "success": true,
+                    "product": {
+                        "id": "ffffffff-0000-4000-a000-000077b0f96c",
+                        "details": {
+                            "id": "ffffffff-0000-4000-a000-000077b0f96c",
+                            "name": "iPhone 17 Pro Max APPLE (6.9'' - 512 GB - Prateado)",
+                            "categories": [
+                                {
+                                    "id": "01G2YYDYYVP212M9N4DGER68ZK",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YY69NZ4MFFQC8GXDMEVWF5",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K2F771M6YTHNP8BXE6V93P5D",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K10M7EHRM8BWKVYXPT607G7W",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K10MTGB26MS05YTJ02P7YV5S",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K2F7Q88D82S9VGCFA5GQFER2",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G6B9AGJF1EKPMQKB5CXFDXVN",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K9YYEM8ZVMFFP964W8WGZ5Y8",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z3083T2F388W2SQ68DSC5P",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K88A6CATDKTGF7P8D980TR8W",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K9CEE11NN5NCBP997RW03RWD",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YYCABM8DB2XGMHS7KRNGQ4",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z1ATGM2BR5QMXA9RZM82CB",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z1ATGM0JPMRX2N43ACK9V0",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YY6FP991AAK7VG9A62JKX8",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01GW2F19ZCSPS20AAZPXMA4SR2",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                }
+                            ],
+                            "defaultCategory": {
+                                "id": "01K2F7Q88D82S9VGCFA5GQFER2",
+                                "url": "/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/iphone/17/pro-max",
+                                "__typename": "ProductCategory",
+                                "data": {
+                                    "config": {
+                                        "children": {
+                                            "sort": []
+                                        },
+                                        "no_index": true,
+                                        "attributes": [],
+                                        "facebook": {
+                                            "description": null,
+                                            "image": null,
+                                            "title": null
+                                        },
+                                        "image": [
+                                            {
+                                                "id": 187709859,
+                                                "proxyPathName": "/i/72479be2bf6f9c6db2ea99e7ac5a1b4bfa63a194"
+                                            }
+                                        ],
+                                        "menu": {
+                                            "name": null
+                                        },
+                                        "scripts": [],
+                                        "title": "iPhone 17 Pro Max",
+                                        "twitter": {
+                                            "description": null,
+                                            "image": null,
+                                            "title": null
+                                        }
+                                    },
+                                    "entity": {
+                                        "type": "range",
+                                        "id": "01K2F7Q88D82S9VGCFA5GQFER2"
+                                    },
+                                    "meta": {
+                                        "markets": [
+                                            "wortenpt"
+                                        ],
+                                        "pageType": "",
+                                        "tags": [],
+                                        "analytics": {
+                                            "type": null
+                                        },
+                                        "default_category": {
+                                            "priority": 1000
+                                        },
+                                        "is_category": true,
+                                        "sitemap": {
+                                            "frequency": null,
+                                            "priority": ""
+                                        },
+                                        "variants": {
+                                            "expand": true
+                                        }
+                                    },
+                                    "refs": [],
+                                    "strings": []
+                                }
+                            },
+                            "canonical": {
+                                "id": "01K4T2QASMCJ36N4GTM82BAS7G",
+                                "__typename": "ContentCanonical"
+                            },
+                            "type": "PRODUCT",
+                            "ean": [
+                                "0195950639414"
+                            ],
+                            "brandName": "APPLE",
+                            "sku": "8600363",
+                            "entityId": "1318715015",
+                            "url": "/produtos/iphone-17-pro-max-apple-6-9-512-gb-prateado-8600363",
+                            "image": {
+                                "type": "IMAGE",
+                                "data": {
+                                    "transforms": {
+                                        "default": "https://www.worten.pt/i/f2b696e5e3c6c9a6fec66bb204ecfc0fe9913947",
+                                        "thumbnail": "https://www.worten.pt/i/8fd5810e9df0f97da18df7e52d6d709383702a5d",
+                                        "thumbnail20": "https://www.worten.pt/i/9f06ed64be865e378e647cbc0556e9b1460a2492",
+                                        "zoom": "https://www.worten.pt/i/165aa769ec352a5a7df92694c8c00aa63c2a683d"
+                                    }
+                                },
+                                "url": "https://www.worten.pt/i/7678f504a2c9d030f0c7792d669a8f08d4ef9743",
+                                "mimeType": "image/jpeg",
+                                "__typename": "ProductMediaAsset"
+                            },
+                            "rating": 5,
+                            "reviews": 14,
+                            "retekDepartment": "5501",
+                            "retekClass": "03",
+                            "retekSubclass": "06",
+                            "defaultCategoryId": "",
+                            "__typename": "Product"
+                        },
+                        "winningOffer": {
+                            "sellerSku": null,
+                            "_id": "f3ba54e4e11d4f906d74a0daaebb3c6c",
+                            "channelId": "92ac4b66-da0f-47f6-81ee-48d9dc2598a3",
+                            "offerId": "ffffffff-0000-4000-a001-000000833b2b",
+                            "sourceOfferCode": "8600363",
+                            "sellerCategory": "FIRST_PARTY",
+                            "pricing": {
+                                "final": {
+                                    "currency": "EUR",
+                                    "value": "166900",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "original": {
+                                    "currency": "EUR",
+                                    "value": "166900",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "originalType": "OTHER",
+                                "discountPercentage": 0,
+                                "discountAbsolute": {
+                                    "currency": "EUR",
+                                    "value": "000",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "__typename": "ProductOfferPricing"
+                            },
+                            "measurementUnit": null,
+                            "unitPrice": {
+                                "currency": "EUR",
+                                "value": "000",
+                                "__typename": "CurrencyValue"
+                            },
+                            "seller": null,
+                            "shouldShowDiscount": false,
+                            "discountPercentage": 0,
+                            "originalPrice": {
+                                "currency": "EUR",
+                                "value": "166900",
+                                "__typename": "CurrencyValue"
+                            },
+                            "discount": {
+                                "currency": "EUR",
+                                "value": "000",
+                                "__typename": "CurrencyValue"
+                            },
+                            "price": {
+                                "currency": "EUR",
+                                "value": "166900",
+                                "__typename": "CurrencyValue"
+                            },
+                            "isInStock": true,
+                            "fulfilmentOptions": [
+                                {
+                                    "data": {
+                                        "freeShippingLabel": false
+                                    },
+                                    "type": "HD",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": {
+                                        "min": "P1D",
+                                        "max": "P2D",
+                                        "free": true,
+                                        "text": null,
+                                        "price": null,
+                                        "__typename": "ShippingDetails"
+                                    },
+                                    "__typename": "FulfilmentOption"
+                                },
+                                {
+                                    "data": null,
+                                    "type": "PIS15",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": null,
+                                    "__typename": "FulfilmentOption"
+                                },
+                                {
+                                    "data": null,
+                                    "type": "HD2H",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": null,
+                                    "__typename": "FulfilmentOption"
+                                },
+                                {
+                                    "data": null,
+                                    "type": "PIS",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": null,
+                                    "__typename": "FulfilmentOption"
+                                }
+                            ],
+                            "fulfillmentCenterCode": null,
+                            "tags": [
+                                "is_in_stock"
+                            ],
+                            "__typename": "ProductOffer"
+                        },
+                        "secondOfferPrice": {
+                            "currency": "EUR",
+                            "value": "176999",
+                            "__typename": "CurrencyValue"
+                        },
+                        "totalOffers": 5,
+                        "__typename": "DetailedProduct",
+                        "totalProductVariants": 11
+                    },
+                    "__typename": "ProductResponse"
+                },
+                {
+                    "_id": "ffffffff-0000-4000-a000-00007801c005",
+                    "code": "FOUND",
+                    "success": true,
+                    "product": {
+                        "id": "ffffffff-0000-4000-a000-00007801c005",
+                        "details": {
+                            "id": "ffffffff-0000-4000-a000-00007801c005",
+                            "name": " Smartphone SAMSUNG Galaxy S26 Ultra (6.9'' - 12 GB - 512 GB - Preto Noturno)",
+                            "categories": [
+                                {
+                                    "id": "01G2YYDYYVP212M9N4DGER68ZK",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G6B9AGJF1EKPMQKB5CXFDXVN",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01KHBG0YGET3X3D4DN82XTM04Z",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01KB53AMSD3AX8T5ZCH5AX8VJ9",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z0J21B0JKGFF2Q374MD6G2",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K88A6CATDKTGF7P8D980TR8W",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K9CEE11NN5NCBP997RW03RWD",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YYCABM8DB2XGMHS7KRNGQ4",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z1ATGM2BR5QMXA9RZM82CB",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z1ATGM0JPMRX2N43ACK9V0",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YY689TB30ZPQMVW2RGJBX3",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YY6GKY7BC5QQ7SK93VZ3AX",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01JE5YCN3XD6X1Z9NQYW9HD4ZZ",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01GW2F19ZCSPS20AAZPXMA4SR2",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                }
+                            ],
+                            "defaultCategory": {
+                                "id": "01KHBG0YGET3X3D4DN82XTM04Z",
+                                "url": "/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/samsung/samsung-galaxy-s26-ultra",
+                                "__typename": "ProductCategory",
+                                "data": {
+                                    "config": {
+                                        "children": {
+                                            "sort": []
+                                        },
+                                        "attributes": [],
+                                        "facebook": {
+                                            "description": null,
+                                            "image": null,
+                                            "title": null
+                                        },
+                                        "hide_in_modules": true,
+                                        "image": [
+                                            {
+                                                "id": 257819895,
+                                                "proxyPathName": "/i/1746b6effb1789926afca33f316951bebcc95e4a"
+                                            }
+                                        ],
+                                        "menu": {
+                                            "name": null
+                                        },
+                                        "scripts": [],
+                                        "title": "Samsung Galaxy S26 Ultra",
+                                        "twitter": {
+                                            "description": null,
+                                            "image": null,
+                                            "title": null
+                                        }
+                                    },
+                                    "entity": {
+                                        "type": "range",
+                                        "id": "01KHBG0YGET3X3D4DN82XTM04Z"
+                                    },
+                                    "meta": {
+                                        "markets": [
+                                            "wortenpt"
+                                        ],
+                                        "pageType": "product-list",
+                                        "tags": [
+                                            "SEO"
+                                        ],
+                                        "analytics": {
+                                            "type": null
+                                        },
+                                        "default_category": {
+                                            "priority": 1000
+                                        },
+                                        "is_category": true,
+                                        "sitemap": {
+                                            "frequency": null,
+                                            "priority": ""
+                                        },
+                                        "variants": {
+                                            "expand": true
+                                        }
+                                    },
+                                    "refs": [],
+                                    "strings": []
+                                }
+                            },
+                            "canonical": {
+                                "id": "01KH2ECHA72GJQF31KT6MGB17W",
+                                "__typename": "ContentCanonical"
+                            },
+                            "type": "PRODUCT",
+                            "ean": [
+                                "8806097827191"
+                            ],
+                            "brandName": "SAMSUNG",
+                            "sku": "8759625",
+                            "entityId": "1349911160",
+                            "url": "/produtos/smartphone-samsung-galaxy-s26-ultra-6-9-12-gb-512-gb-preto-noturno-8759625",
+                            "image": {
+                                "type": "IMAGE",
+                                "data": {
+                                    "transforms": {
+                                        "default": "https://www.worten.pt/i/9001ca00d9588363b5490feb42e724c120916eb7",
+                                        "thumbnail": "https://www.worten.pt/i/072ba4f75f16e94e790c6a0ce852dbb62dc66475",
+                                        "thumbnail20": "https://www.worten.pt/i/0ef9306a178298f23d18069b173633d4f4ca1b00",
+                                        "zoom": "https://www.worten.pt/i/fbd04c980b00505f05e9560c78d147d1ad11b483"
+                                    }
+                                },
+                                "url": "https://www.worten.pt/i/3e4b08c9035b592c87b8eadc4f2e580abf0cdac3",
+                                "mimeType": "image/jpeg",
+                                "__typename": "ProductMediaAsset"
+                            },
+                            "rating": 4.805,
+                            "reviews": 6744,
+                            "retekDepartment": "5501",
+                            "retekClass": "05",
+                            "retekSubclass": "06",
+                            "defaultCategoryId": "",
+                            "__typename": "Product"
+                        },
+                        "winningOffer": {
+                            "sellerSku": null,
+                            "_id": "72a5ccd5d947635453bbe5d36d43d959",
+                            "channelId": "92ac4b66-da0f-47f6-81ee-48d9dc2598a3",
+                            "offerId": "ffffffff-0000-4000-a001-00000085a949",
+                            "sourceOfferCode": "8759625",
+                            "sellerCategory": "FIRST_PARTY",
+                            "pricing": {
+                                "final": {
+                                    "currency": "EUR",
+                                    "value": "169900",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "original": {
+                                    "currency": "EUR",
+                                    "value": "169900",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "originalType": "OTHER",
+                                "discountPercentage": 0,
+                                "discountAbsolute": {
+                                    "currency": "EUR",
+                                    "value": "000",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "__typename": "ProductOfferPricing"
+                            },
+                            "measurementUnit": null,
+                            "unitPrice": {
+                                "currency": "EUR",
+                                "value": "000",
+                                "__typename": "CurrencyValue"
+                            },
+                            "seller": null,
+                            "shouldShowDiscount": false,
+                            "discountPercentage": 0,
+                            "originalPrice": {
+                                "currency": "EUR",
+                                "value": "169900",
+                                "__typename": "CurrencyValue"
+                            },
+                            "discount": {
+                                "currency": "EUR",
+                                "value": "000",
+                                "__typename": "CurrencyValue"
+                            },
+                            "price": {
+                                "currency": "EUR",
+                                "value": "169900",
+                                "__typename": "CurrencyValue"
+                            },
+                            "isInStock": true,
+                            "fulfilmentOptions": [
+                                {
+                                    "data": {
+                                        "freeShippingLabel": false
+                                    },
+                                    "type": "HD",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": {
+                                        "min": "P1D",
+                                        "max": "P2D",
+                                        "free": true,
+                                        "text": null,
+                                        "price": null,
+                                        "__typename": "ShippingDetails"
+                                    },
+                                    "__typename": "FulfilmentOption"
+                                },
+                                {
+                                    "data": null,
+                                    "type": "PIS15",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": null,
+                                    "__typename": "FulfilmentOption"
+                                },
+                                {
+                                    "data": null,
+                                    "type": "HD2H",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": null,
+                                    "__typename": "FulfilmentOption"
+                                },
+                                {
+                                    "data": null,
+                                    "type": "PIS",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": null,
+                                    "__typename": "FulfilmentOption"
+                                }
+                            ],
+                            "fulfillmentCenterCode": null,
+                            "tags": [
+                                "is_in_stock"
+                            ],
+                            "__typename": "ProductOffer"
+                        },
+                        "secondOfferPrice": {
+                            "currency": "EUR",
+                            "value": "127459",
+                            "__typename": "CurrencyValue"
+                        },
+                        "totalOffers": 15,
+                        "__typename": "DetailedProduct",
+                        "totalProductVariants": 11
+                    },
+                    "__typename": "ProductResponse"
+                },
+                {
+                    "_id": "ffffffff-0000-4000-a000-0000776c17bc",
+                    "code": "FOUND",
+                    "success": true,
+                    "product": {
+                        "id": "ffffffff-0000-4000-a000-0000776c17bc",
+                        "details": {
+                            "id": "ffffffff-0000-4000-a000-0000776c17bc",
+                            "name": "iPad APPLE (11'' - 128 GB - Wi-Fi - Prateado)",
+                            "categories": [
+                                {
+                                    "id": "01KC1FTBYTZ5B47CDJNNRJ6EH4",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G6B9AGJF1EKPMQKB5CXFDXVN",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01J0B5180ZJX03SZ8GNJR5JJ1G",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z02T5KKR035EDSZV3RDA32",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YYCABMCF0KA7MWY724DYKF",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z02D9H1S0X4ZGV0G4WFTGE",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01J0R18FG26G7WTYCAFCB4PCG0",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01JNK0B7HBV98NW7AW2PR1493Y",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YY66FBE842BZD0B1MFJ5RG",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z1ATGMNQH4WKVTYDYW4G5R",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z1ATGM0JPMRX2N43ACK9V0",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z1XWST6DERQZCXMDS4WEET",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YY6FP991AAK7VG9A62JKX8",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K88A6CATDKTGF7P8D980TR8W",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01K9CEGX85A3ZW6R350JH1EZCY",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z1XWST5YZ0J952GKKH7MFA",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                }
+                            ],
+                            "defaultCategory": {
+                                "id": "01KC1FTBYTZ5B47CDJNNRJ6EH4",
+                                "url": "/informatica-e-acessorios/tablets/ipads/ipad",
+                                "__typename": "ProductCategory",
+                                "data": {
+                                    "config": {
+                                        "children": {
+                                            "sort": []
+                                        },
+                                        "no_index": true,
+                                        "attributes": [],
+                                        "facebook": {
+                                            "description": null,
+                                            "image": null,
+                                            "title": null
+                                        },
+                                        "image": [
+                                            {
+                                                "id": 236340572,
+                                                "proxyPathName": "/i/640e9f96c8a4993002a92ccf4ec5aee40804a8c8"
+                                            }
+                                        ],
+                                        "menu": {
+                                            "name": null
+                                        },
+                                        "scripts": [],
+                                        "title": "iPad",
+                                        "twitter": {
+                                            "description": null,
+                                            "image": null,
+                                            "title": null
+                                        }
+                                    },
+                                    "entity": {
+                                        "type": "range",
+                                        "id": "01KC1FTBYTZ5B47CDJNNRJ6EH4"
+                                    },
+                                    "meta": {
+                                        "markets": [
+                                            "wortenpt"
+                                        ],
+                                        "pageType": "product-list",
+                                        "tags": [],
+                                        "analytics": {
+                                            "type": null
+                                        },
+                                        "default_category": {
+                                            "priority": 1000
+                                        },
+                                        "is_category": true,
+                                        "sitemap": {
+                                            "frequency": null,
+                                            "priority": ""
+                                        },
+                                        "variants": {
+                                            "expand": true
+                                        }
+                                    },
+                                    "refs": [],
+                                    "strings": []
+                                }
+                            },
+                            "canonical": {
+                                "id": "01JNM75ATW6ZY828VS7SZ7P0DG",
+                                "__typename": "ContentCanonical"
+                            },
+                            "type": "PRODUCT",
+                            "ean": [
+                                "0195950086317"
+                            ],
+                            "brandName": "APPLE",
+                            "sku": "8387693",
+                            "entityId": "1291349428",
+                            "url": "/produtos/ipad-apple-11-128-gb-wi-fi-prateado-8387693",
+                            "image": {
+                                "type": "IMAGE",
+                                "data": {
+                                    "transforms": {
+                                        "default": "https://www.worten.pt/i/bdb913860dea7b49d98d9779dfb93c9caa13fb79",
+                                        "thumbnail": "https://www.worten.pt/i/3e82645281bfd5b62c8b71a9b93aa96870fb379b",
+                                        "thumbnail20": "https://www.worten.pt/i/37a9f83acb9edb5d0658fd29150399e457317bae",
+                                        "zoom": "https://www.worten.pt/i/365c51c4dc800d8428432e00936eb84b6d739365"
+                                    }
+                                },
+                                "url": "https://www.worten.pt/i/4d19c0bde616bde1af406e1bfd03cb019cb727f4",
+                                "mimeType": "image/jpeg",
+                                "__typename": "ProductMediaAsset"
+                            },
+                            "rating": 4.9062,
+                            "reviews": 96,
+                            "retekDepartment": "5402",
+                            "retekClass": "03",
+                            "retekSubclass": "10",
+                            "defaultCategoryId": "",
+                            "__typename": "Product"
+                        },
+                        "winningOffer": {
+                            "sellerSku": null,
+                            "_id": "24c9b31daef583c54717b6321b53a809",
+                            "channelId": "92ac4b66-da0f-47f6-81ee-48d9dc2598a3",
+                            "offerId": "ffffffff-0000-4000-a001-0000007ffc6d",
+                            "sourceOfferCode": "8387693",
+                            "sellerCategory": "FIRST_PARTY",
+                            "pricing": {
+                                "final": {
+                                    "currency": "EUR",
+                                    "value": "36999",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "original": {
+                                    "currency": "EUR",
+                                    "value": "36999",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "originalType": "OTHER",
+                                "discountPercentage": 0,
+                                "discountAbsolute": {
+                                    "currency": "EUR",
+                                    "value": "000",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "__typename": "ProductOfferPricing"
+                            },
+                            "measurementUnit": null,
+                            "unitPrice": {
+                                "currency": "EUR",
+                                "value": "000",
+                                "__typename": "CurrencyValue"
+                            },
+                            "seller": null,
+                            "shouldShowDiscount": false,
+                            "discountPercentage": 0,
+                            "originalPrice": {
+                                "currency": "EUR",
+                                "value": "36999",
+                                "__typename": "CurrencyValue"
+                            },
+                            "discount": {
+                                "currency": "EUR",
+                                "value": "000",
+                                "__typename": "CurrencyValue"
+                            },
+                            "price": {
+                                "currency": "EUR",
+                                "value": "36999",
+                                "__typename": "CurrencyValue"
+                            },
+                            "isInStock": true,
+                            "fulfilmentOptions": [
+                                {
+                                    "data": {
+                                        "freeShippingLabel": false
+                                    },
+                                    "type": "HD",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": {
+                                        "min": "P1D",
+                                        "max": "P2D",
+                                        "free": true,
+                                        "text": null,
+                                        "price": null,
+                                        "__typename": "ShippingDetails"
+                                    },
+                                    "__typename": "FulfilmentOption"
+                                },
+                                {
+                                    "data": null,
+                                    "type": "PIS15",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": null,
+                                    "__typename": "FulfilmentOption"
+                                },
+                                {
+                                    "data": null,
+                                    "type": "HD2H",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": null,
+                                    "__typename": "FulfilmentOption"
+                                },
+                                {
+                                    "data": null,
+                                    "type": "PIS",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": null,
+                                    "__typename": "FulfilmentOption"
+                                }
+                            ],
+                            "fulfillmentCenterCode": null,
+                            "tags": [
+                                "is_in_stock"
+                            ],
+                            "__typename": "ProductOffer"
+                        },
+                        "secondOfferPrice": {
+                            "currency": "EUR",
+                            "value": "34999",
+                            "__typename": "CurrencyValue"
+                        },
+                        "totalOffers": 17,
+                        "__typename": "DetailedProduct",
+                        "totalProductVariants": 0
+                    },
+                    "__typename": "ProductResponse"
+                },
+                {
+                    "_id": "ffffffff-0000-4000-a000-0000773635b6",
+                    "code": "FOUND",
+                    "success": true,
+                    "product": {
+                        "id": "ffffffff-0000-4000-a000-0000773635b6",
+                        "details": {
+                            "id": "ffffffff-0000-4000-a000-0000773635b6",
+                            "name": "Consola Nintendo Switch 2 + Jogo Mario Kart World (Código de Descarga na Caixa)",
+                            "categories": [
+                                {
+                                    "id": "01G6B9AGJF1EKPMQKB5CXFDXVN",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01KMJT1MC51T82XXPX9V3VEEYY",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01JQS27EBM9Z5R78WMTZN576GD",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01H5J9J953HD9EPA8JG034SYZP",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01H5J7VB0AMHKCQQZ5HS2G44WH",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01GK4P7ENXC4RX5GYPK0HEGSKV",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z2ZF57DTF60J0WE55SVKR3",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01JQS5F6MVWMPBDZN5V0GFDHTH",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YY66FBE842BZD0B1MFJ5RG",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YY66FC8BHCETGBHAGAC1EN",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YYCPGNNJAPREX612JM66VX",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YY6FP8YKGW21NAT0ESRER2",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z1XWST6DERQZCXMDS4WEET",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2YY689V5GF6X556VN70QJ8V",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                },
+                                {
+                                    "id": "01G2Z1XWST5YZ0J952GKKH7MFA",
+                                    "entityId": "",
+                                    "__typename": "ProductCategory"
+                                }
+                            ],
+                            "defaultCategory": {
+                                "id": "01JQS5F6MVWMPBDZN5V0GFDHTH",
+                                "url": "/gaming/nintendo-switch/consolas-nintendo-switch/nintendo-switch-2",
+                                "__typename": "ProductCategory",
+                                "data": {
+                                    "config": {
+                                        "children": {
+                                            "sort": []
+                                        },
+                                        "attributes": [],
+                                        "facebook": {
+                                            "description": null,
+                                            "image": null,
+                                            "title": null
+                                        },
+                                        "hide_in_modules": false,
+                                        "image": [
+                                            {
+                                                "id": 142628955,
+                                                "proxyPathName": "/i/ba95207659f4824c37b1b87623535d2de761aca4"
+                                            }
+                                        ],
+                                        "menu": {
+                                            "name": null
+                                        },
+                                        "meta_description": "Nintendo Switch 2 com Ecrã maior, Potência e suporte para 4K na TV. Explora o GameChat e aproveita a Retrocompatibilidade. Melhor Preço na Worten",
+                                        "page_title": "Nintendo Switch 2 | Melhor Preço em Worten.pt",
+                                        "scripts": [],
+                                        "title": "Nintendo Switch 2",
+                                        "twitter": {
+                                            "description": null,
+                                            "image": null,
+                                            "title": null
+                                        }
+                                    },
+                                    "entity": {
+                                        "type": "range",
+                                        "id": "01JQS5F6MVWMPBDZN5V0GFDHTH"
+                                    },
+                                    "meta": {
+                                        "markets": [
+                                            "wortenpt"
+                                        ],
+                                        "pageType": "product-list",
+                                        "tags": [],
+                                        "analytics": {
+                                            "type": null
+                                        },
+                                        "default_category": {
+                                            "priority": 1000
+                                        },
+                                        "is_category": true,
+                                        "sitemap": {
+                                            "frequency": null,
+                                            "priority": ""
+                                        },
+                                        "variants": {
+                                            "expand": false
+                                        }
+                                    },
+                                    "refs": [],
+                                    "strings": []
+                                }
+                            },
+                            "canonical": {
+                                "id": "01JHK1SK1NKE7BPRMH9BRDQ016",
+                                "__typename": "ContentCanonical"
+                            },
+                            "type": "PRODUCT",
+                            "ean": [
+                                "5607894887677",
+                                "0045496321529"
+                            ],
+                            "brandName": "NINTENDO",
+                            "sku": "8284635",
+                            "entityId": "1269665342",
+                            "url": "/produtos/consola-nintendo-switch-2-jogo-mario-kart-world-codigo-de-descarga-na-caixa-8284635",
+                            "image": {
+                                "type": "IMAGE",
+                                "data": {
+                                    "transforms": {
+                                        "default": "https://www.worten.pt/i/b6399799d17d4f8b1b7dd1e4432dc523696caf81",
+                                        "thumbnail": "https://www.worten.pt/i/12ac15f8665efa091d7f001c4f5a9587b3250e93",
+                                        "thumbnail20": "https://www.worten.pt/i/413e0a251a03385e31df32ec9010fa4409b43bb5",
+                                        "zoom": "https://www.worten.pt/i/c650d28d94d722b37ec13b2b5755bfb3c254afa5"
+                                    }
+                                },
+                                "url": "https://www.worten.pt/i/97468b5c88dbf5642b5ad187feb890c140bb1ecd",
+                                "mimeType": "image/jpeg",
+                                "__typename": "ProductMediaAsset"
+                            },
+                            "rating": 4.865,
+                            "reviews": 274,
+                            "retekDepartment": "5201",
+                            "retekClass": "02",
+                            "retekSubclass": "14",
+                            "defaultCategoryId": "",
+                            "__typename": "Product"
+                        },
+                        "winningOffer": {
+                            "sellerSku": null,
+                            "_id": "37005e0e1166fe1ab72890eb74c6c22e",
+                            "channelId": "92ac4b66-da0f-47f6-81ee-48d9dc2598a3",
+                            "offerId": "ffffffff-0000-4000-a001-0000007e69db",
+                            "sourceOfferCode": "8284635",
+                            "sellerCategory": "FIRST_PARTY",
+                            "pricing": {
+                                "final": {
+                                    "currency": "EUR",
+                                    "value": "42999",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "original": {
+                                    "currency": "EUR",
+                                    "value": "42999",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "originalType": "OTHER",
+                                "discountPercentage": 0,
+                                "discountAbsolute": {
+                                    "currency": "EUR",
+                                    "value": "000",
+                                    "__typename": "CurrencyValue"
+                                },
+                                "__typename": "ProductOfferPricing"
+                            },
+                            "measurementUnit": null,
+                            "unitPrice": {
+                                "currency": "EUR",
+                                "value": "000",
+                                "__typename": "CurrencyValue"
+                            },
+                            "seller": null,
+                            "shouldShowDiscount": false,
+                            "discountPercentage": 0,
+                            "originalPrice": {
+                                "currency": "EUR",
+                                "value": "42999",
+                                "__typename": "CurrencyValue"
+                            },
+                            "discount": {
+                                "currency": "EUR",
+                                "value": "000",
+                                "__typename": "CurrencyValue"
+                            },
+                            "price": {
+                                "currency": "EUR",
+                                "value": "42999",
+                                "__typename": "CurrencyValue"
+                            },
+                            "isInStock": true,
+                            "fulfilmentOptions": [
+                                {
+                                    "data": {
+                                        "freeShippingLabel": false
+                                    },
+                                    "type": "HD",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": {
+                                        "min": "P1D",
+                                        "max": "P2D",
+                                        "free": true,
+                                        "text": null,
+                                        "price": null,
+                                        "__typename": "ShippingDetails"
+                                    },
+                                    "__typename": "FulfilmentOption"
+                                },
+                                {
+                                    "data": null,
+                                    "type": "PIS15",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": null,
+                                    "__typename": "FulfilmentOption"
+                                },
+                                {
+                                    "data": null,
+                                    "type": "HD2H",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": null,
+                                    "__typename": "FulfilmentOption"
+                                },
+                                {
+                                    "data": null,
+                                    "type": "PIS",
+                                    "activeFrom": null,
+                                    "activeUntil": null,
+                                    "link": null,
+                                    "shipping": null,
+                                    "__typename": "FulfilmentOption"
+                                }
+                            ],
+                            "fulfillmentCenterCode": null,
+                            "tags": [
+                                "is_in_stock"
+                            ],
+                            "__typename": "ProductOffer"
+                        },
+                        "secondOfferPrice": null,
+                        "totalOffers": 1,
+                        "__typename": "DetailedProduct",
+                        "totalProductVariants": 0
+                    },
+                    "__typename": "ProductResponse"
+                }
+            ]
+        }
+    }
+]
