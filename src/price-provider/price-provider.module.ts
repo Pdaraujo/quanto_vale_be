@@ -1,15 +1,10 @@
 import { Module } from '@nestjs/common';
 import { WortenProvider } from './providers/worten/worten.provider';
-import { PROVIDER_CONFIG } from './price-provider.constants';
+import { PriceProviderController } from './price-provider.controller';
 
 @Module({
-    providers: [
-        {
-            provide: PROVIDER_CONFIG,
-            useValue: { url: 'https://www.worten.pt' },
-        },
-        WortenProvider,
-    ],
+    providers: [WortenProvider],
     exports: [WortenProvider],
+    controllers: [PriceProviderController],
 })
 export class PriceProviderModule {}

@@ -6,4 +6,8 @@ export default () => ({
         username: process.env.REDIS_USERNAME,
         password: process.env.REDIS_PASSWORD,
     },
+    worten: {
+        baseUrl: process.env.WORTEN_BASE_URL || 'https://www.worten.pt',
+        pageSize: parseInt(process.env.WORTEN_PAGE_SIZE ?? '12', 10),
+    },
 });
